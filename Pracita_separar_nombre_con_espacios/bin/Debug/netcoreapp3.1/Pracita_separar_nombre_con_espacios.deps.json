@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pracita_separar_nombre_con_espacios/1.0.0": {
+        "runtime": {
+          "Pracita_separar_nombre_con_espacios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pracita_separar_nombre_con_espacios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
